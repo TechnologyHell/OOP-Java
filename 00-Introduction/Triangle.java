@@ -2,6 +2,7 @@ public class Triangle
 {
     public static void main (String args[])
     {
+        //row == stars
         int row = 5;
 
         for (int i=0; i<row; i++)
